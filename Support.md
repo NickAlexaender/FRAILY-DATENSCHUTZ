@@ -83,3 +83,4 @@ Fraily is designed with privacy first.
 You remain in full control of your data at all times.
 
 For details, see our Privacy Policy:
+https://github.com/NickAlexaender/FRAILY-DATENSCHUTZ/blob/main/Datenschutz.md
