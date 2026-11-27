@@ -7,7 +7,7 @@ Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. Mit die
 Verantwortlich für die Datenverarbeitung im Sinne der DSGVO ist:
 
 Fraily
-(Nick Lehmacher, Gerhart-Hauptmann Str. 45a in 90513 Zirndorf)
+(Nick Lehmacher, Gustavstraße 1 in 90762 Fürth)
 
 2. Grundsätze der Datenverarbeitung
 
