@@ -52,7 +52,7 @@ Der Anbieter behält sich das Recht vor, diese AGB jederzeit zu ändern. Über w
 
 ## 10. Schlussbestimmungen
 
-Es gilt das Recht der Bundesrepublik Deutschland. Gerichtsstand ist, soweit gesetzlich zulässig, Zirndorf. Sollten einzelne Bestimmungen dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen davon unberührt.
+Es gilt das Recht der Bundesrepublik Deutschland. Gerichtsstand ist, soweit gesetzlich zulässig, Fürth. Sollten einzelne Bestimmungen dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen davon unberührt.
 
 ---
 
@@ -61,6 +61,6 @@ Es gilt das Recht der Bundesrepublik Deutschland. Gerichtsstand ist, soweit gese
 Bei Fragen zu diesen AGB wende dich bitte an:
 
 Nick Lehmacher (Kleinunternehmer)  
-Gerhart-Hauptmann-Str. 45a  
-90513 Zirndorf  
+Gustavstraße 1  
+90762 Fürth  
 E-Mail: nick.lehmacher@gmx.de
