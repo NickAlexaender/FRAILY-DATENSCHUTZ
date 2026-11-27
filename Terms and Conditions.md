@@ -52,13 +52,13 @@ The Provider reserves the right to amend these T&C at any time. Users will be in
 
 10. Final Provisions
 
-The law of the Federal Republic of Germany shall apply. Place of jurisdiction is, insofar as legally permissible, Zirndorf. Should individual provisions of these T&C be invalid, the validity of the remaining provisions shall remain unaffected.
+The law of the Federal Republic of Germany shall apply. Place of jurisdiction is, insofar as legally permissible, Fürth. Should individual provisions of these T&C be invalid, the validity of the remaining provisions shall remain unaffected.
 
 Contact
 
 If you have any questions regarding these T&C, please contact:
 
 Nick Lehmacher (Kleinunternehmer)
-Gerhart-Hauptmann-Str. 45a
-90513 Zirndorf
+Gustavstraße 1
+90762 Fürth
 Email: nick.lehmacher@gmx.de
