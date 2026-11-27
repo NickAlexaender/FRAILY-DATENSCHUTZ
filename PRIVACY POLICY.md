@@ -7,7 +7,7 @@ Protecting your personal data is important to us. With this Privacy Policy, we i
 The controller responsible for data processing within the meaning of the GDPR is:
 
 Fraily
-(Nick Lehmacher, Gerhart-Hauptmann Str. 45a, 90513 Zirndorf, Germany)
+(Nick Lehmacher, Gustavstraße 1, 90762 Fürth, Germany)
 
 2. Principles of Data Processing
 
