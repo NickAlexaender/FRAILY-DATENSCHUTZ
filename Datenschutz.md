@@ -1,153 +1,109 @@
-# DATENSCHUTZERKLÄRUNG FRAILY
+# Datenschutzerklärung für die App Fraily
 
-Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. Mit dieser Datenschutzerklärung informieren wir Sie darüber, welche Daten bei der Nutzung der App Fraily verarbeitet werden, zu welchem Zweck dies geschieht und welche Rechte Ihnen nach der Datenschutz-Grundverordnung (DSGVO) zustehen.
+Stand: 27. November 2026
 
-1. Verantwortlicher
+## 1. Verantwortlicher
 
-Verantwortlich für die Datenverarbeitung im Sinne der DSGVO ist:
+Nick Lehmacher (Kleinunternehmer)  
+Gustavstraße 1  
+90762 Fürth  
+E-Mail: nick.lehmacher@gmx.de
 
-Fraily
-(Nick Lehmacher, Gustavstraße 1 in 90762 Fürth)
+## 2. Das Wichtigste in Kürze
 
-2. Grundsätze der Datenverarbeitung
+- Fraily ist ein persönliches Gedächtnis für dein berufliches Netzwerk. Was du einträgst, entscheidest du.
+- Deine Daten liegen auf deinem Gerät und, damit sie einen Gerätewechsel überstehen, bei Google Firebase in Frankfurt am Main.
+- Deine Notizen wertet Fraily mit KI von OpenAI aus. Das passiert erst, wenn du in der App zustimmst.
+- Eine Nutzungsstatistik erfasst Fraily nur, wenn du zustimmst.
+- Fraily zeigt keine Werbung, verkauft keine Daten und schreibt nie in deinem Namen.
+- Du kannst dein Konto mit allen Daten jederzeit in der App löschen.
 
-Fraily verarbeitet personenbezogene Daten ausschließlich im Rahmen der gesetzlichen Bestimmungen, insbesondere der DSGVO. Personenbezogene Daten werden nur erhoben, wenn dies für die Bereitstellung, Nutzung und Weiterentwicklung der App erforderlich ist.
+## 3. Was du in Fraily einträgst
 
-Eine Weitergabe oder ein Verkauf personenbezogener Daten zu Werbezwecken findet nicht statt.
+**Welche Daten:** Angaben über dich (Name, Beschreibung, eigene Kontaktdaten, was du suchst und was du kannst, deine Antworten im Einstieg wie deine Rolle). Personen aus deinem Netzwerk mit Namen, Kontaktdaten, Geburtstag, Foto, Notizen und Stichworten. Begegnungen, offene Fäden wie Zusagen und Pläne, wer wen kennt, Gruppen und Termine. Einstellungen wie Sprache, Zeitzone und Erinnerungszeit.
 
-3. Verarbeitete Datenarten
+**Wo sie liegen:** auf deinem Gerät und zusätzlich bei Google Firebase (Cloud Firestore und Cloud Storage) in Frankfurt am Main, verknüpft mit deinem Konto. So bleiben deine Daten bei einem Gerätewechsel erhalten, und Fraily kann deine Vorschläge berechnen.
 
-Im Rahmen der Nutzung von Fraily können insbesondere folgende Daten verarbeitet werden:
+**Wozu:** damit Fraily funktioniert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Nutzungsvertrag).
 
-Nutzerdaten
+**Wie lange:** bis du den Eintrag oder dein Konto löschst.
 
-Benutzer-ID
+## 4. Angaben über andere Menschen
 
-Profilinformationen (z. B. Name oder selbst gewählte Bezeichnungen)
+Wer Fraily nutzt, schreibt über andere Menschen. Diese Menschen haben Fraily nicht selbst zugestimmt. Deshalb gilt:
 
-App-bezogene Einstellungen
+- Fraily nutzt diese Angaben nur, um dir deine eigenen Notizen und Vorschläge zu zeigen. Andere Nutzer sehen sie nicht. Fraily nimmt keinen Kontakt zu diesen Menschen auf und führt sie nicht kontoübergreifend zusammen.
+- Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Das berechtigte Interesse liegt darin, dir eine Gedächtnisstütze für deine beruflichen Kontakte zu bieten. Die Angaben bleiben in deinem Konto, sind nur für dich sichtbar und lassen sich jederzeit löschen.
+- Bitte schreib nur auf, was du für deine Kontaktpflege brauchst. Lass besonders sensible Angaben weg, etwa zu Gesundheit, Religion, politischer Meinung oder Sexualleben.
 
-Inhaltsdaten
+## 5. Konto und Anmeldung
 
-Vom Nutzer erstellte Texte, Notizen, Nachrichten und sonstige Inhalte
+Beim ersten Start legt Fraily ein anonymes Konto bei Google Firebase Authentication an. Dafür reicht eine zufällige Kennung, die Nutzer-ID. Wenn du dein Konto mit Apple oder Google verbindest, speichert Firebase zusätzlich die Kennung und die E-Mail-Adresse, die Apple oder Google übermitteln. Bei Apple kannst du deine E-Mail-Adresse verbergen.
 
-Von der App generierte Textvorschläge oder Inhalte
+Anbieter ist Google. Die Kontodaten verarbeitet Google auch in den USA. Google LLC ist nach dem EU-US Data Privacy Framework zertifiziert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO. Die Daten bleiben bis zur Löschung deines Kontos.
 
-Technische Daten
+## 6. Auswertung mit KI (OpenAI)
 
-Geräteinformationen (z. B. Betriebssystem, App-Version)
+**Wann:** nur nach deiner Zustimmung in der App. Ohne Zustimmung geht nichts an OpenAI, und du trägst Begegnungen von Hand ein.
 
-Zeitpunkte von App-Zugriffen
+**Welche Daten:** Notizen, die du tippst, einfügst oder diktierst. Sprachaufnahmen, die in Text umgewandelt werden. Die Namen deiner Kontakte, damit Fraily Personen zuordnen kann, und dein Name. Die Stichworte unter „kann“ und „sucht“, ohne Namen. In Fraily Pro die Notizen zu einer Person, aus denen Fraily eine Zusammenfassung schreibt. Texte, die du im Feedback veröffentlichst, zur Prüfung auf Missbrauch.
 
-Firebase-spezifische Identifikatoren
+**Wie:** Die App schickt die Daten verschlüsselt an den Fraily-Server bei Render in Frankfurt am Main. Der Server leitet sie an OpenAI weiter. Deine Nutzer-ID bekommt OpenAI nicht. Sprachaufnahmen speichert der Fraily-Server nicht, er verarbeitet sie nur im Arbeitsspeicher. Die Ergebnisse speichert Fraily in deinem Konto.
 
-Push-Notification-Daten
+**Anbieter:** OpenAI Ireland Limited, die Verarbeitung erfolgt auch durch OpenAI in den USA. Grundlage für die Übermittlung in die USA sind die Standardvertragsklauseln der EU-Kommission. OpenAI nutzt Daten aus seiner API laut eigenen Angaben nicht zum Training und speichert sie zur Missbrauchskontrolle bis zu 30 Tage.
 
-Geräte- bzw. Push-Token für den Versand von Benachrichtigungen
+**Rechtsgrundlage:** deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO. Für Angaben über andere Menschen in deinen Notizen gilt zusätzlich Abschnitt 4. Du kannst die Einwilligung jederzeit in den Einstellungen unter „KI-Auswertung“ widerrufen. Der Widerruf gilt ab diesem Zeitpunkt.
 
+## 7. Vorschläge und Benachrichtigungen
 
-4. Zweck der Datenverarbeitung
+Der Fraily-Server liest die Daten deines Kontos aus Firestore, je nach Tarif einmal am Tag oder einmal pro Woche, und berechnet daraus deine Vorschläge. Er speichert sie in deinem Konto und löscht Vorschläge, die älter als 14 Tage sind. Betreiber des Servers ist Render Services, Inc. mit Servern in Frankfurt am Main. Render ist nach dem EU-US Data Privacy Framework zertifiziert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO.
 
-Die Verarbeitung personenbezogener Daten erfolgt zu folgenden Zwecken:
+Wenn du Benachrichtigungen erlaubst, speichert Fraily ein Geräte-Token in deinem Konto. Darüber schickt der Fraily-Server einen kurzen Hinweis wie „Morgen gibt es 3 Anlässe aus deinem Netzwerk.“ Namen stehen darin nicht. Zugestellt wird er über den Push-Dienst von Expo (650 Industries, Inc., USA, nach dem EU-US Data Privacy Framework zertifiziert) und über Apple oder Google. Erinnerungen, die die App selbst plant, bleiben auf deinem Gerät. Benachrichtigungen schaltest du in den Einstellungen deines Geräts ab.
 
-Bereitstellung und Betrieb der App
+## 8. Server-Protokolle
 
-Speicherung und Verwaltung nutzergenerierter Inhalte
+Der Fraily-Server protokolliert technische Angaben zu jeder Anfrage, etwa Zeitpunkt, aufgerufene Funktion, Ergebnis und IP-Adresse. Inhalte deiner Notizen stehen nicht darin. Zweck sind Betrieb, Fehlersuche und Schutz vor Missbrauch, etwa durch eine Begrenzung der Anfragen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Render speichert die Protokolle je nach Tarif 7 bis 30 Tage.
 
-Unterstützung bei der Pflege von Kontakten und Beziehungen
+## 9. Fraily Pro und Käufe
 
-Generierung von Texten und Nachrichten mithilfe KI-gestützter Funktionen
+Käufe wickeln der Apple App Store oder Google Play ab. Zahlungsdaten sehen wir nicht. Den Abo-Status verwaltet RevenueCat, Inc. (USA) mit deiner Nutzer-ID, den gekauften Produkten, Zeitpunkten, Status und Plattform. RevenueCat meldet Änderungen am Abo an den Fraily-Server, der den Pro-Status in deinem Konto speichert. Grundlage für die Übermittlung in die USA sind die Standardvertragsklauseln der EU-Kommission. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO. Die Daten bleiben bis zur Löschung deines Kontos, Kaufbelege bei Apple und Google nach deren Regeln.
 
-Versand von Push-Benachrichtigungen (z. B. Erinnerungen oder Hinweise)
+## 10. Nutzungsstatistik (PostHog)
 
-Sicherstellung der technischen Stabilität und Sicherheit der App
+Nur wenn du zustimmst, erfasst Fraily, wie die App genutzt wird. Gefragt wirst du einmal im Einstieg, ändern kannst du es jederzeit in den Einstellungen unter „Nutzungsstatistik“. Standardmäßig ist sie aus.
 
-Weiterentwicklung und Verbesserung der App-Funktionen
+Erfasst werden zum Beispiel App-Starts, aufgerufene Screens, abgeschlossene Schritte im Einstieg mit deinen Antworten (etwa Rolle und wie du von Fraily erfahren hast), die Zahl deiner Kontakte und ob du Benachrichtigungen erlaubt oder Fraily Pro gekauft hast. Namen und Notizen gehören nicht dazu, Berührungen und Bildschirmtexte erfasst Fraily nicht. Die Daten sind mit deiner Nutzer-ID verknüpft, damit wir Abläufe über mehrere Tage verstehen.
 
+Anbieter ist PostHog, Inc. (USA), nach eigenen Angaben nach dem EU-US Data Privacy Framework zertifiziert. Rechtsgrundlage ist deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG. Du kannst sie jederzeit widerrufen, dann sendet die App nichts mehr. Die bereits erfassten Daten bleiben bis zur Löschung deines Kontos.
 
+## 11. Feedback
 
-5. Einsatz von Firebase (Google)
+Was du im Bereich Feedback veröffentlichst, sehen andere Fraily-Nutzer, ebenso deine Stimmen. Technisch wird dabei die Nutzer-ID des Autors mitgeliefert, einen Namen zeigt Fraily nicht an. Vor dem Veröffentlichen prüft OpenAI den Text auf Missbrauch (Abschnitt 6). Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO. Die Beiträge bleiben, bis du sie oder dein Konto löschst.
 
-Fraily nutzt Dienste von Google Firebase, einem Backend-Service der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
+## 12. Konto löschen
 
-Firebase wird insbesondere eingesetzt für:
+In der App unter Einstellungen, „Konto löschen“. Gelöscht werden dein Konto bei Firebase, alle Daten deines Kontos in Firestore und Storage, deine Person und deine Ereignisse bei PostHog, dein Kundeneintrag bei RevenueCat und alle Daten auf deinem Gerät. Eine Anmeldung mit Apple wird widerrufen. Ein laufendes Abo kündigst du getrennt bei Apple oder Google.
 
-Datenspeicherung (z. B. Firestore oder Realtime Database)
+Manche Daten verschwinden zeitversetzt: PostHog löscht Ereignisse im Hintergrund, Sicherungskopien bis zu zwei Wochen später. Bei OpenAI gelten bis zu 30 Tage Missbrauchskontrolle, bei Render die Aufbewahrung der Protokolle aus Abschnitt 8.
 
-Authentifizierung von Nutzern
+Wechselst du auf einem Gerät in ein bestehendes Konto, löscht Fraily das vorherige anonyme Konto samt Daten, sobald der Server bestätigt hat, dass deine Daten im neuen Konto liegen. In seltenen Fällen bleibt es bestehen, etwa wenn die App vorher beendet wird, die Verbindung fehlt oder ein Abo am alten Konto hängt. Dann löschen wir es auf Anfrage per E-Mail.
 
-Cloud Functions zur App-Logik
+Hast du die App nicht mehr, schreib uns eine E-Mail. Wir löschen dein Konto dann für dich.
 
-Firebase Cloud Messaging für Push-Benachrichtigungen
+## 13. Deine Rechte
 
-Alle vom Nutzer erstellten Inhalte sowie nutzerbezogene Daten werden in Firebase gespeichert und verarbeitet.
+Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch gegen Verarbeitungen auf Grundlage berechtigter Interessen (Art. 21). Eine Einwilligung kannst du jederzeit für die Zukunft widerrufen (Art. 7 Abs. 3). Das gilt auch für Menschen, über die in Fraily geschrieben wird. Schreib dafür an nick.lehmacher@gmx.de.
 
-Google kann Daten auch in Drittländern (insbesondere den USA) verarbeiten. Die Datenübermittlung erfolgt auf Grundlage der von Google bereitgestellten Standardvertragsklauseln gemäß Art. 46 DSGVO.
+Du kannst dich außerdem bei einer Datenschutz-Aufsichtsbehörde beschweren. Zuständig ist das Bayerische Landesamt für Datenschutzaufsicht, Promenade 18, 91522 Ansbach.
 
-Weitere Informationen zum Datenschutz bei Google Firebase finden Sie in der Datenschutzerklärung von Google.
+## 14. Keine Werbung, keine automatisierten Entscheidungen
 
+Fraily zeigt keine Werbung und gibt keine Daten zu Werbezwecken weiter. Die Vorschläge berechnet Fraily automatisch. Sie haben keine rechtliche Wirkung und beeinträchtigen dich nicht in ähnlicher Weise, eine automatisierte Entscheidung nach Art. 22 DSGVO findet nicht statt.
 
-6. Nutzung von ChatGPT (OpenAI)
+## 15. Sicherheit
 
-Fraily nutzt ChatGPT, einen KI-Dienst der OpenAI, um Texte, Nachrichten und inhaltliche Vorschläge zu generieren oder zu unterstützen.
+Alle Verbindungen sind verschlüsselt. Auf die Daten deines Kontos in Firestore kommt nur, wer mit deinem Konto angemeldet ist. Geheime Schlüssel, etwa für OpenAI, liegen nur auf dem Fraily-Server und nicht in der App.
 
-Dabei werden vom Nutzer bereitgestellte Inhalte (z. B. Texteingaben) an OpenAI übermittelt, soweit dies für die jeweilige Funktion erforderlich ist. Die Verarbeitung erfolgt ausschließlich zweckgebunden zur Bereitstellung der gewünschten KI-Funktion.
+## 16. Änderungen
 
-Es erfolgt keine Nutzung der übermittelten Daten zu Werbezwecken durch Fraily. Die Verarbeitung durch OpenAI unterliegt deren eigenen Datenschutzbestimmungen.
-
-7. Push-Benachrichtigungen
-
-Fraily verwendet Push-Benachrichtigungen, um Nutzer über relevante Ereignisse oder Erinnerungen zu informieren. Der Versand erfolgt über Firebase Cloud Messaging.
-
-Hierfür wird ein gerätebezogener Push-Token verarbeitet. Push-Benachrichtigungen können jederzeit über die Geräteeinstellungen deaktiviert werden.
-
-
-8. Rechtsgrundlagen der Verarbeitung
-
-Die Verarbeitung personenbezogener Daten erfolgt auf Grundlage folgender Rechtsgrundlagen:
-
-Art. 6 Abs. 1 lit. b DSGVO – Verarbeitung zur Erfüllung eines Vertrags bzw. zur Nutzung der App
-
-Art. 6 Abs. 1 lit. f DSGVO – berechtigtes Interesse an einem sicheren, funktionsfähigen und nutzerfreundlichen App-Betrieb
-
-Art. 6 Abs. 1 lit. a DSGVO – Einwilligung, soweit diese erforderlich ist (z. B. Push-Benachrichtigungen)
-
-
-
-9. Speicherdauer
-
-Personenbezogene Daten werden nur so lange gespeichert, wie dies für die genannten Zwecke erforderlich ist oder gesetzliche Aufbewahrungspflichten bestehen.
-
-Nutzer können jederzeit die Löschung ihres Accounts und der damit verbundenen Daten verlangen.
-
-
-10. Rechte der betroffenen Personen
-
-Nutzer haben jederzeit das Recht:
-
-Auskunft über ihre gespeicherten Daten zu erhalten (Art. 15 DSGVO)
-
-Berichtigung unrichtiger Daten zu verlangen (Art. 16 DSGVO)
-
-Löschung ihrer Daten zu verlangen (Art. 17 DSGVO)
-
-Einschränkung der Verarbeitung zu verlangen (Art. 18 DSGVO)
-
-Widerspruch gegen die Verarbeitung einzulegen (Art. 21 DSGVO)
-
-Datenübertragbarkeit zu verlangen (Art. 20 DSGVO)
-
-Anfragen können an den Verantwortlichen gerichtet werden.
-
-
-
-11. Datensicherheit
-
-Fraily setzt technische und organisatorische Maßnahmen ein, um personenbezogene Daten vor Verlust, Manipulation oder unbefugtem Zugriff zu schützen. Die Datenübertragung erfolgt verschlüsselt.
-
-
-12. Änderungen der Datenschutzerklärung
-
-Diese Datenschutzerklärung kann bei Weiterentwicklung der App oder aufgrund gesetzlicher Änderungen angepasst werden. Es gilt jeweils die aktuelle Version.
-
-
+Wenn sich Fraily ändert, passen wir diese Erklärung an. Die aktuelle Fassung steht in der App und unter https://github.com/NickAlexaender/FRAILY-DATENSCHUTZ/blob/main/Datenschutz.md.
