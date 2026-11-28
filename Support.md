@@ -1,86 +1,56 @@
-Fraily – Support & Help
+# Fraily Support
 
-Fraily helps you maintain meaningful relationships by reminding you of important connections and supporting regular, intentional contact.
+Fraily is a personal CRM for your professional network. You tell, Fraily remembers and speaks up when the time is right.
 
-If you have questions, encounter issues, or want to share feedback, you’ll find everything you need below.
+## What Fraily does
 
+- After a meeting, you type or speak a short note.
+- Fraily finds the encounters, promises, plans and who knows whom. You check the result and save it.
+- Every day Fraily shows at most three reasons to reach out, each with a why.
+- The person page shows what is open and what you noted before you meet again.
+- Fraily suggests introductions when someone in your network can help someone else.
 
-What is Fraily?
+Fraily is not a social network and not a sales CRM. There are no feeds, no public profiles and no points.
 
-Fraily is a personal relationship companion.
-It helps you:
+## Frequently asked questions
 
-Keep track of important people in your life
+**Do my contacts get notified?**
+No. Your notes are visible only to you.
 
-Get personalized daily suggestions for staying in touch
+**Does Fraily send messages for me?**
+No. Fraily only suggests. You decide when and how to get in touch.
 
-Log interactions like messages, calls, or meetings
+**Does Fraily use AI?**
+Only after you agree in the app. Without consent you add encounters by hand. You can change this any time in Settings.
 
-Store notes and context so conversations feel more personal
+**Is my data sold or used for ads?**
+No.
 
-Strengthen relationships through gentle reminders, not pressure
+**Do I need an account?**
+Fraily creates an anonymous account on first launch. You can link it with Apple or Google to restore it on another device.
 
-Fraily is not a social network. No feeds, no likes, no public profiles.
+## Delete your account
 
+In the app: Settings → "Delete account". This deletes your account and all its data on our servers and on your device. A running subscription has to be cancelled separately with Apple or Google.
 
-Key Features
+If you no longer have the app, email nick.lehmacher@gmx.de with the subject "Delete account". We will delete your account and confirm by email.
 
-- Daily personalized connection suggestions
+## Contact
 
-- Contact categories (e.g. Important, Friend, Acquaintance)
+Use the Feedback section in the app for ideas. For support, email nick.lehmacher@gmx.de.
 
-- Interaction tracking (messages, calls, meetings, video)
+Privacy policy: https://github.com/NickAlexaender/FRAILY-DATENSCHUTZ/blob/main/PRIVACY%20POLICY.md
 
-- Notes & context per contact
+---
 
-- Optional reminders to maintain regular contact
+# Fraily Support (Deutsch)
 
-- Anonymous in-app feedback
+Fraily ist ein persönliches CRM für dein berufliches Netzwerk. Du erzählst, Fraily merkt es sich und meldet sich, wenn es passt.
 
+**Konto löschen:** In der App unter Einstellungen → „Konto löschen“. Hast du die App nicht mehr, schreib an nick.lehmacher@gmx.de mit dem Betreff „Konto löschen“. Wir löschen dein Konto und bestätigen es per E-Mail. Ein laufendes Abo kündigst du getrennt bei Apple oder Google.
 
+**KI:** Fraily wertet Notizen erst nach deiner Zustimmung mit KI aus. Ändern kannst du das jederzeit in den Einstellungen.
 
-Getting Started
+**Kontakt:** nick.lehmacher@gmx.de
 
-Add your first contact
-
-Choose how important the connection is to you
-
-Enable reminders if you want support staying in touch
-
-Use daily suggestions to reach out intentionally
-
-That’s it—Fraily adapts to your rhythm.
-
-
-Frequently Asked Questions
-
-Do my contacts get notified?
-No. All data stays private to you.
-
-Does Fraily send messages automatically?
-No. Fraily only suggests—you decide when and how to reach out.
-
-Is my data shared or sold?
-No. Your data is stored securely and never sold.
-
-Do I need an account?
-Currently, Fraily works without public profiles or social sharing.
-
-
-
-Feedback & Support
-
-Your feedback directly shapes Fraily.
-
-Use the in-app Feedback section to share ideas anonymously
-
-For support requests or questions, contact:
-nick.lehmacher@gmx.de
-
-Privacy
-
-Fraily is designed with privacy first.
-You remain in full control of your data at all times.
-
-For details, see our Privacy Policy:
-https://github.com/NickAlexaender/FRAILY-DATENSCHUTZ/blob/main/Datenschutz.md
+Datenschutzerklärung: https://github.com/NickAlexaender/FRAILY-DATENSCHUTZ/blob/main/Datenschutz.md
